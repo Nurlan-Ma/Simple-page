@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  font-size: 30px;
+  color: white;
+}
+
+.class__row {
+  display: flex;
+  border: 10px solid yellow;
+  margin: 0 0 30px 0;
+}
+
+.class__column1 {
+  background-color: blue;
+  flex-basis: 50px;
+}
+
+.class__column2 {
+  background-color: blue;
+}
+
+.class__column3 {
+  background-color: blue;
+}/*# sourceMappingURL=style.css.map */
